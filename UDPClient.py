@@ -1,3 +1,4 @@
+# GitHub Repository:# GitHub Repository: https://github.com/The4leepy/Network-Lab-UDP
 # UDPClient.py
 # 导入 socket 模块，这是进行网络编程的基础
 from socket import *
